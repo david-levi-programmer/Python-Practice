@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c55dade0-f01a-4b82-aca4-3a811c3e2f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/Working with Built-In Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Working with Directories.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Python.Learning about Modules.executor": "Run",
     "Python.More Python Practice.executor": "Run",
     "Python.Working with Built-In Modules.executor": "Run",
+    "Python.Working with Directories.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
