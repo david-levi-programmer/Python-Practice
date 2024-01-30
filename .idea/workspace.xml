@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c55dade0-f01a-4b82-aca4-3a811c3e2f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Practice/Class Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Practice/Learning about Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Practice/Learning about Python Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Practice/conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/utility.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Practice/Emoji Converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/Emoji Converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Practice/More Python Practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Practice/Learning about Modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/Learning about Modules.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
