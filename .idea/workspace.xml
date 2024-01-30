@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c55dade0-f01a-4b82-aca4-3a811c3e2f9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python Practice/Class Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/Learning about Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/Learning about Python Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practice/conversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Practice/More Python Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/More Python Practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Practice/Emoji Converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Practice/Emoji Converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Practice/More Python Practice.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +49,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Class Inheritance.executor": "Run",
+    "Python.Emoji Converter.executor": "Run",
     "Python.FirstApp.executor": "Run",
+    "Python.Learning about Modules.executor": "Run",
     "Python.More Python Practice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
